@@ -2,6 +2,10 @@
 
 ## Beschreibung Datensatz
 
+Der Datensatz enthält Informationen über Fußballspieler vom Spiel Fifa 23, darunter Name, Nationalität, Verein, Position und verschiedene spielerbezogene Attribute. Die wichtigsten numerischen Felder umfassen Alter, Tempo (PAC), Schuss (SHO), Passen (PAS), Dribbling (DRI), Defensive (DEF) und Physis (PHY). Diese Werte helfen dabei, die Gesamtbewertung eines Spielers vorherzusagen. Weitere Merkmale wie Größe, Gewicht, bevorzugter Fuß und Arbeitsraten geben zusätzliche Einblicke in die Spielweise der Spieler.
+
+Für die Analyse wird das Feld "overall" (Gesamtbewertung) ausgeschlossen, da es vorhergesagt werden soll.
+
 
 ## Datenschutz
 
