@@ -10,4 +10,5 @@ Maßnahmen zur Gewährleistung des Datenschutzes:
 - Die Daten stammen aus öffentlichen Quellen und beinhalten keine privaten Informationen.
 - Falls personenbezogene Daten vorhanden wären, müssten diese anonymisiert oder entfernt werden.
 - Sensible Attribute wie Gesundheitszustand oder Verträge wurden nicht erfasst.
+
 Dieser Datensatz dient ausschließlich zur Analyse von Spielerbewertungen und enthält keine kritischen personenbezogenen Daten.
