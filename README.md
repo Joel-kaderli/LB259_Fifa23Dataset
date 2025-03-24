@@ -19,3 +19,5 @@ Dieser Datensatz dient ausschließlich zur Analyse von Spielerbewertungen und en
 
 
 # Teilaufgabe 2 
+
+Die Daten zu Teilaufgabe 2 finden sie in einem Jupyter notebook File data_description.ipynb.
