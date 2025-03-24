@@ -18,4 +18,4 @@ Maßnahmen zur Gewährleistung des Datenschutzes:
 Dieser Datensatz dient ausschließlich zur Analyse von Spielerbewertungen und enthält keine kritischen personenbezogenen Daten.
 
 
-### Teilaufgabe 2 
+# Teilaufgabe 2 
