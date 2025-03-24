@@ -16,3 +16,6 @@ Maßnahmen zur Gewährleistung des Datenschutzes:
 - Sensible Attribute wie Gesundheitszustand oder Verträge wurden nicht erfasst.
 
 Dieser Datensatz dient ausschließlich zur Analyse von Spielerbewertungen und enthält keine kritischen personenbezogenen Daten.
+
+
+### Teilaufgabe 2 
